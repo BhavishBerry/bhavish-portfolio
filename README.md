@@ -8,7 +8,7 @@ Personal portfolio website showcasing my work as an AI/ML Engineer specializing 
 
 ## 👋 About Me
 
-I'm an AI/ML Engineer currently pursuing a B.Tech with a Minor in AI (IIT). I focus on building intelligent backend systems and applied ML pipelines rather than UI-heavy applications.
+I'm an AI/ML Engineer currently pursuing a B.Tech in AI (PCTE). I focus on building intelligent backend systems and applied ML pipelines rather than UI-heavy applications.
 
 **Core Focus Areas:**
 - 🧠 LLM & RAG Systems — Document-grounded AI, prompt engineering
@@ -50,5 +50,3 @@ I'm an AI/ML Engineer currently pursuing a B.Tech with a Minor in AI (IIT). I fo
 - Deployed on Vercel
 
 ---
-
-> *"I focus on building the intelligence behind AI systems, not the UI around them."*
