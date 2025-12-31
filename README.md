@@ -1,133 +1,54 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
+# Bhavish — AI/ML Engineer Portfolio
 
-<div align="center">
-  <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
-  </a>
-  <br />
-  <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
-    <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
-  </div>
-  <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
-  <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
-  <br />
-</div>
+Personal portfolio website showcasing my work as an AI/ML Engineer specializing in LLMs, RAG systems, and audio ML.
 
-## 📋 Table of Contents
-
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+🔗 **Live Site:** [Coming soon via Vercel]
 
 ---
 
-## 🚀 Introduction
+## 👋 About Me
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
+I'm an AI/ML Engineer currently pursuing a B.Tech with a Minor in AI (IIT). I focus on building intelligent backend systems and applied ML pipelines rather than UI-heavy applications.
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
-
----
-
-## ⚙️ Tech Stack
-
-* **React** – Component-based UI development
-* **Vite** – Lightning-fast build tool
-* **TailwindCSS** – Utility-first CSS for styling
-* **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+**Core Focus Areas:**
+- 🧠 LLM & RAG Systems — Document-grounded AI, prompt engineering
+- 🤖 Machine Learning — Vision, audio, NLP, time-series models
+- ⚙️ AI Backend Systems — Python pipelines, AI orchestration
 
 ---
 
-## ⚡️ Features
+## 🚀 Featured Projects
 
-* 🌑 **Light/Dark Mode Toggle**
-  Save theme preference in local storage with beautiful transitions
-
-* 💫 **Animated Backgrounds**
-  Stars, meteors, scroll effects, and glowing UI elements
-
-* 📱 **Responsive Navigation**
-  Desktop and mobile menus with glassmorphism
-
-* 👨‍💻 **Hero & About Sections**
-  Showcase who you are with smooth intro animations and buttons
-
-* 📊 **Skills Grid**
-  Filterable progress bars and categories with animated width
-
-* 🖼️ **Projects Showcase**
-  Display screenshots, tech stacks, and GitHub/demo links
-
-* 📩 **Contact Section**
-  Social icons + responsive contact form with toast notifications
-
-* 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Internal Operations AI Copilot](https://github.com/BhavishBerry/Internal-Operations-AI-Copilot-RAG-Based-) | Role-aware AI copilot with RAG-based document grounding | Python, RAG, LLM, ChromaDB |
+| [Food Label AI Pipeline](https://github.com/BhavishBerry/food-label-ai-pipeline) | End-to-end CV pipeline for food packaging analysis | Computer Vision, YOLO, OCR, PyTorch |
+| Smart Speaker (Audio ML) | Wake-word detection & audio preprocessing from scratch | PyTorch, Audio ML |
 
 ---
 
-## 👌 Quick Start
+## 🛠 Tech Stack
 
-### Prerequisites
-
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
-
-### Clone and Run
-
-```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
-cd react-tailwind-portfolio
-npm install
-npm run dev
-```
-
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, RAG, LangChain  
+**Audio ML:** Wake-word Detection, Spectrogram Modeling, ASR  
+**Tools:** Python, Git, VS Code, FastAPI, NumPy/Pandas
 
 ---
 
-## 🖼️ Screenshots
+## 📬 Contact
 
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
-
----
-
-## ☁️ Deployment
-
-### Deploy on Vercel
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Click **Deploy**
-
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
+- **Email:** berrybhavish086@gmail.com
+- **GitHub:** [BhavishBerry](https://github.com/BhavishBerry)
+- **LinkedIn:** [bhavish-berry](https://www.linkedin.com/in/bhavish-berry/)
 
 ---
 
-## 🔗 Useful Links
+## 🏗 Built With
 
-* [React Documentation](https://reactjs.org/)
-* [Tailwind CSS Docs](https://tailwindcss.com/)
-* [Lucide Icons](https://lucide.dev/)
-* [Radix UI](https://www.radix-ui.com/)
-* [Vite](https://vitejs.dev/)
-* [Vercel](https://vercel.com/)
+- React + Vite
+- TailwindCSS
+- Deployed on Vercel
 
 ---
 
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
+> *"I focus on building the intelligence behind AI systems, not the UI around them."*
